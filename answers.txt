@@ -1,0 +1,20 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: Because on sorted data it performed much faster than selection sort.
+
+sort2 uses: MERGE SORT
+
+How do you know?: Because it was the fastest algorithm on reversed values.
+
+sort3 uses: SELECTION SORT
+
+How do you know?: Because for sorted data it had about the same time as reversed or unsorted data.
+
+REVERSED10000
+Sort 1:0m0.388s
+Sort 2:0m0.114s
+Sort 3:0m0.211s
+
+SORTED10000
+Sort 1:0m0.74s
+Sort 3:0m0.0.210s
